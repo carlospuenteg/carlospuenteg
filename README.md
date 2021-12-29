@@ -21,3 +21,6 @@ https://simpleicons.org/?q=C
 [![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
+
+## Find me at:
+[![CodeWars](https://img.shields.io/badge/Ccodewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)]()
