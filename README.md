@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Skills:
-[![Python](https://img.shields.io/badge/python-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/python-999999?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
