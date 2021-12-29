@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills:
+[![Python](https://img.shields.io/badge/python-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
