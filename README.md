@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## Skills:
 [![Python](https://img.shields.io/badge/python-999999?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Javascript](https://img.shields.io/badge/javascript-999999?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-999999?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-999999?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css-999999?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-999999?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)]()
