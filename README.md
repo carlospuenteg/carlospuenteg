@@ -23,4 +23,4 @@ https://simpleicons.org/?q=C
 [![C++](https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
-[![CodeWars](https://img.shields.io/badge/Codewars-4f4f4f?style=for-the-badge&logo=codewars&logoColor=f89999&labelColor=f89999)](https://www.codewars.com/users/Fisherman386)
+[![CodeWars](https://img.shields.io/badge/Codewars-4f4f4f?style=for-the-badge&logo=codewars&logoColor=f89999&labelColor=white)](https://www.codewars.com/users/Fisherman386)
