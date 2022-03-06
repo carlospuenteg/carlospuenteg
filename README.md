@@ -5,7 +5,7 @@ https://simpleicons.org/?q=C
 -->
 
 ## Skills:
-[![Python](https://img.shields.io/badge/python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
