@@ -16,4 +16,5 @@ https://simpleicons.org/?q=C
 ## Find me at:
 [![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
 
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
