@@ -4,8 +4,6 @@
 https://simpleicons.org/?q=C
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
@@ -17,3 +15,5 @@ https://simpleicons.org/?q=C
 
 ## Find me at:
 [![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
