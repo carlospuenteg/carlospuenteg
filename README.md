@@ -4,6 +4,8 @@
 https://simpleicons.org/?q=C
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
