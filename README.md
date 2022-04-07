@@ -19,5 +19,3 @@ https://simpleicons.org/?q=C
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fisherman386&show_icons=true&theme=cobalt)
-
