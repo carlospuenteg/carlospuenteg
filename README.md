@@ -5,8 +5,6 @@ https://simpleicons.org/?q=C
 -->
 
 ## Skills
-
-## Used
 <p>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
