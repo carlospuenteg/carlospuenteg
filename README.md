@@ -14,6 +14,7 @@ https://simpleicons.org/?q=C
 [![C++](https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/Express-90CA8E?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 
 ## Find me at
 [![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
