@@ -13,7 +13,7 @@ https://simpleicons.org/?q=C
 [![Java](https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
 [![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
-[![Express](https://img.shields.io/badge/Express-3C873A?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express-90CA8E?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
 ## Find me at
 [![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
