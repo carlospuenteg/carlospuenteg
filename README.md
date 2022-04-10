@@ -8,7 +8,7 @@ https://simpleicons.org/?q=C
 <p float="left" align=center>
   <img src="https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/HTML3-F16529?style=for-the-badge&logo=html3&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010"/>
