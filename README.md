@@ -5,6 +5,7 @@ https://simpleicons.org/?q=C
 -->
 
 ## Skills
+<p align=center>
 [![Python](https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -15,7 +16,7 @@ https://simpleicons.org/?q=C
 [![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/Express-b3d5b2?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
-
+</div>
 ## Find me at
 [![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
 
