@@ -14,7 +14,6 @@ https://simpleicons.org/?q=C
   <img src="https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Express-b3d5b2?style=for-the-badge&logo=express&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010"/>
 </p>
 
