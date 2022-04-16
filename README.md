@@ -11,12 +11,12 @@ https://simpleicons.org/?q=C
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/MySQL-007F8F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Express-b3d5b2?style=for-the-badge&logo=express&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/MySQL-007F8F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 </p>
 
 ## Find me at
