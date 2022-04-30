@@ -28,6 +28,7 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://img.shields.io/badge/VSCode-F16529?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Copilot-00a2b3?style=for-the-badge&logo=headspace&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/MySQL DataBase-007F8F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
 </p>
 
 ## Find me at
