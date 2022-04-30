@@ -2,6 +2,8 @@
 **Fisherman386/fisherman386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://simpleicons.org/?q=C
+
+Default-icons: ReverbNation, headspace, Conventional Commits
 -->
 
 ## Skills
@@ -17,6 +19,8 @@ https://simpleicons.org/?q=C
   <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/JSON-9d9d9d?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/XML-ff6f00?style=for-the-badge&logo=headspace&google-ads&logoColor=white&labelColor=101010"/>
 </p>
 
 ## Find me at
@@ -24,4 +28,3 @@ https://simpleicons.org/?q=C
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
