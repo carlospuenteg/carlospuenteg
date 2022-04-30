@@ -15,12 +15,12 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/MySQL-007F8F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Express-b3d5b2?style=for-the-badge&logo=express&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/JSON-9d9d9d?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Python-3B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/XML-ff6f00?style=for-the-badge&logo=headspace&google-ads&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/C++-99CCFF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/JSON-9d9d9d?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/XML-ff6f00?style=for-the-badge&logo=headspace&google-ads&logoColor=white&labelColor=101010"/>
 </p>
 
 ## Find me at
