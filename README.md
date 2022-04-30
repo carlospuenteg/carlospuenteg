@@ -25,10 +25,9 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 
 ## Tools
 <p float="left" align=center>
-  <img src="https://img.shields.io/badge/VSCode-F16529?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Copilot-00a2b3?style=for-the-badge&logo=headspace&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/MySQL DataBase-007F8F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/Fisherman386/fisherman386/blob/b04da25b50081dd9ca960441395b10527b2a7592/assets/copilot.png" alt="gcopilot" width="40" height="40"/>
+  <img src="https://github.com/Fisherman386/fisherman386/blob/2943c2678e82ab35372d617f4b2fa48a100bc89d/assets/netbeans.png" alt="vscode" width="40" height="40"/>
 </p>
 
 ## Find me at
