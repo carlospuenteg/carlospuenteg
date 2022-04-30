@@ -20,7 +20,7 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/9dd01a1e86d15e691440558a83f27b7b3712e099/assets/xml.png" alt="xml" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/ad33360208f8d94527170011ff523269a21a4c2a/assets/cpp.png" alt="c++" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" height="60"/>
 </p>
 
 ## Tools
@@ -28,12 +28,12 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/b04da25b50081dd9ca960441395b10527b2a7592/assets/copilot.png" alt="gcopilot" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/2943c2678e82ab35372d617f4b2fa48a100bc89d/assets/netbeans.png" alt="vscode" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
 </p>
 
 ## Find me at
 <p float="left" align=center>
-  <img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/>
 </p>
 
 ## Github stats
