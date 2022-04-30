@@ -32,7 +32,7 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 </p>
 
 ## Find me at
-[![CodeWars](https://img.shields.io/badge/Codewars-f89999?style=for-the-badge&logo=codewars&logoColor=white&labelColor=101010)](https://www.codewars.com/users/Fisherman386)
+  <img src="https://github.com/Fisherman386/fisherman386/blob/b5428aa47bced1d2ed79c3275ac911050708abfe/assets/codewars.png" alt="mysql workbench" width="50" height="50"/>
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
