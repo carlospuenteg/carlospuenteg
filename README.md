@@ -32,7 +32,9 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 </p>
 
 ## Find me at
+<p float="left" align=center>
   <img src="https://github.com/Fisherman386/fisherman386/blob/b5428aa47bced1d2ed79c3275ac911050708abfe/assets/codewars.png" alt="codewars" width="50" height="50"/>
+</p>
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
