@@ -19,6 +19,8 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/Fisherman386/fisherman386/blob/9dd01a1e86d15e691440558a83f27b7b3712e099/assets/xml.png" alt="xml" width="40" height="40"/>
+  <img src="https://github.com/Fisherman386/fisherman386/blob/ad33360208f8d94527170011ff523269a21a4c2a/assets/cpp.png" alt="c++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
 </p>
 
 ## Tools
