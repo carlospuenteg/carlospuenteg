@@ -33,7 +33,7 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 
 ## Find me at
 <p float="left" align=center>
-  <img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/>
+  <a href="https://www.codewars.com/users/Fisherman386"><img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/></a>
 </p>
 
 ## Github stats
