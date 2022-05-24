@@ -39,3 +39,5 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+<img src="https://github-profile-trophy.vercel.app/?username=fisherman386&column=8&theme=gruvbox&no-frame=true"/>
