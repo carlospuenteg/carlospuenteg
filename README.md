@@ -30,7 +30,7 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://github.com/Fisherman386/fisherman386/blob/b04da25b50081dd9ca960441395b10527b2a7592/assets/copilot.png" alt="gcopilot" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Fisherman386/fisherman386/blob/aa13981671d3babe10c2e64a662699501cf493ba/assets/openai.png" alt="openai" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/2943c2678e82ab35372d617f4b2fa48a100bc89d/assets/netbeans.png" alt="vscode" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
+  <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Find me at
