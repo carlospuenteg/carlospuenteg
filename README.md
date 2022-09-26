@@ -3,7 +3,7 @@
 -->
 
 ## Some of my Work
-### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
+### <a href="https://github.com/carlospuenteg/Photomosaic-Creator" target="_blank">Photomosaic Creator</a>
 
 https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-a875-1a368e5f948f.mp4
 
