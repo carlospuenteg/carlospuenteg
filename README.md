@@ -1,13 +1,15 @@
 <!--
 **Fisherman386/fisherman386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://simpleicons.org/?q=C
-
-Default-icons: ReverbNation, headspace, Conventional Commits
 -->
 
+## Some of my Work
+### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
+
+https://user-images.githubusercontent.com/65092569/192170517-4b6492ba-2d95-46fa-a4da-5bc9dc64b833.mp4
+
 ## Skills
-<div float="left" align=center>
+
+<div float=left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,11 +24,11 @@ Default-icons: ReverbNation, headspace, Conventional Commits
   <img src="https://github.com/Fisherman386/fisherman386/blob/ad33360208f8d94527170011ff523269a21a4c2a/assets/cpp.png" alt="c++" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/891168bfec7afbf2219ee518875e38c1054cded3/assets/bash.png" alt="bash" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/carlospuenteg/carlospuenteg/blob/471579029418785710681de7180cc354a1bcf592/assets/x86-assembly.png" alt="x86-assembly" height="60"/
+  <img src="https://github.com/carlospuenteg/carlospuenteg/blob/471579029418785710681de7180cc354a1bcf592/assets/x86-assembly.png" alt="x86-assembly" height="60"/
 </div>
 
 ## Tools
-<div float="left" align=center>
+<div float=left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/b04da25b50081dd9ca960441395b10527b2a7592/assets/copilot.png" alt="gcopilot" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Fisherman386/fisherman386/blob/aa13981671d3babe10c2e64a662699501cf493ba/assets/openai.png" alt="openai" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,12 +37,12 @@ Default-icons: ReverbNation, headspace, Conventional Commits
 </div>
 
 ## Find me at
-<div float="left" align=center>
+<div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/></a>
 </div>
 
 ## Github stats
-<div float="left" align=center>
+<div float="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
