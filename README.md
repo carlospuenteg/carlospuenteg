@@ -43,7 +43,9 @@ https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-
 
 ## Github stats
 <div float="left">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=carlospuenteg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
