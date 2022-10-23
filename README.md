@@ -30,14 +30,14 @@
   <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
 </div>
 
-## Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
-
 ## Find me at
 <div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
 </div>
+
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
 
 ## Github stats
 <div float="left">
