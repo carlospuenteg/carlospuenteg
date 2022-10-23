@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-
 
 ## Find me at
 <div float="left">
-  <a href="https://www.codewars.com/users/Fisherman386"><img src="https://github.com/Fisherman386/fisherman386/blob/22f671219e29683dc531e7959b015def71276d41/assets/codewars.jpg" alt="codewars" height="60"/></a>
+  <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
 </div>
 
 ## Github stats
