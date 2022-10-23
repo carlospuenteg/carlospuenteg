@@ -2,10 +2,6 @@
 **Fisherman386/fisherman386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
-
 ## Skills
 <div float=left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,3 +48,7 @@
 ### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
 
 https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-a875-1a368e5f948f.mp4
+
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
