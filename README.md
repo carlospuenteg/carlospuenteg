@@ -1,5 +1,9 @@
 <!--
 **Fisherman386/fisherman386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
 -->
 
 ## Skills
@@ -34,10 +38,6 @@
 <div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
 </div>
-
-## Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
 
 ## Github stats
 <div float="left">
