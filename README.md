@@ -30,6 +30,10 @@
   <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
 </div>
 
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
+
 ## Find me at
 <div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
@@ -48,7 +52,3 @@
 ### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
 
 https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-a875-1a368e5f948f.mp4
-
-## Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/carlospuenteg/count.svg)
