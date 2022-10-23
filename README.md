@@ -3,7 +3,6 @@
 -->
 
 ## Skills
-
 <div float=left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,11 +30,6 @@
   <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
 </div>
 
-## Some of my Work
-### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
-
-https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-a875-1a368e5f948f.mp4
-
 ## Find me at
 <div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
@@ -49,3 +43,8 @@ https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## Some of my Work
+### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
+
+https://user-images.githubusercontent.com/65092569/192170512-0378d30a-4094-4029-a875-1a368e5f948f.mp4
