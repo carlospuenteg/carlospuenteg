@@ -38,10 +38,16 @@
 ## Github stats
 <div float="left">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospuenteg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="carlospuenteg's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&theme=dracula" alt="carlospuenteg's top languages" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospuenteg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=f8d847" alt="carlospuenteg's github stats" />
 
 </div>
+
+## Top Repositories
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=photomosaic-creator&theme=ayu-mirage" />
 
 ## Some of my Work
 ### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
