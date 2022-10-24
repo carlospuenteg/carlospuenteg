@@ -20,7 +20,7 @@
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/891168bfec7afbf2219ee518875e38c1054cded3/assets/bash.png" alt="bash" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/471579029418785710681de7180cc354a1bcf592/assets/x86-assembly.png" alt="x86-assembly" height="60"/
 </div>
-
+ 
 ## Tools
 <div float=left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
