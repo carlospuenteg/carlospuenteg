@@ -32,9 +32,13 @@
 
 ## Top Repositories
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
+<a href=https://github.com/carlospuenteg/File-Inyector>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=photomosaic-creator&theme=ayu-mirage" />
+<a href=https://github.com/carlospuenteg/Photomosaic-Creator>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=photomosaic-creator&theme=ayu-mirage" />
+</a>
 
 ## Github stats
 <div float="left">
