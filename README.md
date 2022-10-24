@@ -30,10 +30,11 @@
   <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="60"/>
 </div>
 
-## Find me at
-<div float="left">
-  <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
-</div>
+## Top Repositories
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=photomosaic-creator&theme=ayu-mirage" />
 
 ## Github stats
 <div float="left">
@@ -42,12 +43,11 @@
 
 </div>
 
-## Top Repositories
+## Find me at
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=photomosaic-creator&theme=ayu-mirage" />
+<div float="left">
+  <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
+</div>
 
 ## Some of my Work
 ### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
