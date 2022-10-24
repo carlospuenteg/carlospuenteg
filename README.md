@@ -43,7 +43,9 @@
 ## Github stats
 <div float="left">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospuenteg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=f8d847" alt="carlospuenteg's github stats" />
+<a href="https://github.com/carlospuenteg?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospuenteg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=f8d847" alt="carlospuenteg's github stats" />
+</a>
 
 </div>
 
