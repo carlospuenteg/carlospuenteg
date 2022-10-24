@@ -38,9 +38,8 @@
 ## Github stats
 <div float="left">
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=carlospuenteg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospuenteg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="carlospuenteg's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospuenteg&theme=dracula" alt="carlospuenteg's top languages" /> |
+| ------------- | ------------- |
 
 </div>
 
