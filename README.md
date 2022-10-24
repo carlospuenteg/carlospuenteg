@@ -8,17 +8,13 @@
 
 ## Skills
 <div float=left>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/9dd01a1e86d15e691440558a83f27b7b3712e099/assets/xml.png" alt="xml" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/ad33360208f8d94527170011ff523269a21a4c2a/assets/cpp.png" alt="c++" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/891168bfec7afbf2219ee518875e38c1054cded3/assets/bash.png" alt="bash" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
