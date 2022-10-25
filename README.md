@@ -32,7 +32,7 @@
 
 ## Top Repositories
 
-<a href=https://github.com/carlospuenteg/File-Inyector>
+<a href=https://github.com/carlospuenteg/File-Injector>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospuenteg&repo=file-inyector&theme=ayu-mirage" />
 </a>
 
