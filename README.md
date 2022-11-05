@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/ad33360208f8d94527170011ff523269a21a4c2a/assets/cpp.png" alt="c++" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/891168bfec7afbf2219ee518875e38c1054cded3/assets/bash.png" alt="bash" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
