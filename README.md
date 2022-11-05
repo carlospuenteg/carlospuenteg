@@ -33,6 +33,10 @@
 ### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
 
 https://user-images.githubusercontent.com/65092569/200093661-00c553d7-2e53-48b0-8513-beaada3676cb.mp4
+  
+### [Image to Unicode]([https://github.com/carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Image-to-Unicode))
+  
+https://user-images.githubusercontent.com/65092569/193468684-e0594082-f257-4ba0-8b16-e6c774ba05bd.mp4
 
 ## Top Repositories
 
