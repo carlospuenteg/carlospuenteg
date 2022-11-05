@@ -28,6 +28,11 @@
   <img src="https://github.com/Fisherman386/fisherman386/blob/2943c2678e82ab35372d617f4b2fa48a100bc89d/assets/netbeans.png" alt="vscode" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="50"/>
 </div>
+  
+## Some of my Work
+### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
+
+https://user-images.githubusercontent.com/65092569/200093661-00c553d7-2e53-48b0-8513-beaada3676cb.mp4
 
 ## Top Repositories
 
@@ -53,8 +58,3 @@
 <div float="left">
   <a href="https://www.codewars.com/users/Fisherman386"><img  src="https://www.codewars.com/users/Fisherman386/badges/large" alt="Ashu Alpha Codewars Badge"></a>
 </div>
-
-## Some of my Work
-### [Photomosaic Creator](https://github.com/carlospuenteg/Photomosaic-Creator)
-
-https://user-images.githubusercontent.com/65092569/200093661-00c553d7-2e53-48b0-8513-beaada3676cb.mp4
