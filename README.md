@@ -20,15 +20,7 @@
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/891168bfec7afbf2219ee518875e38c1054cded3/assets/bash.png" alt="bash" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/carlospuenteg/carlospuenteg/blob/471579029418785710681de7180cc354a1bcf592/assets/x86-assembly.png" alt="x86-assembly" height="50"/
 </div>
- 
-## Tools
-<div float=left>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/b04da25b50081dd9ca960441395b10527b2a7592/assets/copilot.png" alt="gcopilot" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/Fisherman386/fisherman386/blob/aa13981671d3babe10c2e64a662699501cf493ba/assets/openai.png" alt="openai" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/2943c2678e82ab35372d617f4b2fa48a100bc89d/assets/netbeans.png" alt="vscode" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fisherman386/fisherman386/blob/23b6cd674004e1c3cecbd63b11ca12e63ec3603e/assets/mysql-workbench.png" alt="mysql workbench"  height="50"/>
-</div>
+
   
 ## Top Repositories
 
